@@ -1,5 +1,5 @@
 # Andreas Løvig Borg
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreasborgaau&theme=dark)](https://git.io/streak-stats)
 
-
-
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=andreasborgaau&theme=dark&hide_border=true"/>
+</p>

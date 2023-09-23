@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Andreas Løvig Borg </h1>
 
 <p align="center">
-  🎓 Software Bachelor Student at Aalborg University
+  🎓 Software BSc and Webdeveloper!
 </p>
 
 
